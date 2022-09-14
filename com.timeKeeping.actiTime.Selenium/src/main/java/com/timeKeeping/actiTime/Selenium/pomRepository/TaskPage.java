@@ -13,6 +13,8 @@ public class TaskPage {
 		this.driver = driver;	
 	}
 	
+	
+	
 	@FindBy(xpath = "//div[text()='Add New']")
 	private WebElement addNewButton;
 	
