@@ -18,8 +18,6 @@ public class ClickAction {
 		
 		Actions action = new Actions(driver);
 		action.click(driver.findElement(By.id("keepLoggedInCheckBox"))).perform();
-	
-	
 	}
 
 }
