@@ -19,6 +19,8 @@ public class ClassA {
 	@Test
 	public void demo3() {
 		System.out.println("From demo3");
+		System.out.println("From demo3");
+
 			
 	}
 
