@@ -16,8 +16,10 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>6.14.3</version>
-    <scope>test</scope>
+    <scope>compile</scope>
 </dependency>
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+
 <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
